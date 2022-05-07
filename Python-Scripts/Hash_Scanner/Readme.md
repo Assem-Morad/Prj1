@@ -1,6 +1,8 @@
 **<u>Description</u>**
 
-This script is indented to allow you to add several API keys to iterate on, allowing you to scan faster in a short time.
+A simple Python script that takes serval API keys to iterate on, this will let your scan takes less time than usual.
+The more api keys used the less time it takes to send a scan request. for example If you have one API key,then it will take 15 seconds between requests and if you add another api key it will take 7.30 seonds between requests and so on. 
+
 
 <u>**Usage**</u> 
 

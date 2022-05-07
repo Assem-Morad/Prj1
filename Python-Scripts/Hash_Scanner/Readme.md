@@ -22,9 +22,11 @@ This script is indented to allow you to add several API keys to iterate on, allo
 
     ![execution](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Hash_Scanner/images/execution.jpg)
 
-- **Output** 
+- **Output**   
 
   ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Hash_Scanner/images/results.jpg)
+
+  
 
   
 

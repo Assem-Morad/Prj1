@@ -10,7 +10,7 @@ this script iterates on serval API keys, allowing you to scan a large number of 
 
   - To get script capabilities and examples, use `-h` 
 
-    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/help%20.jpg)
+    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/help.jpg)
 
 - **Examples**
 
@@ -22,13 +22,13 @@ this script iterates on serval API keys, allowing you to scan a large number of 
     py .\CheckIP_Reputation.py -a APIKeys.csv -f D:/ListOfIPs.csv -o D:/Abuseipdb.csv -m 60
     ```
 
-    ![execution](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/execution%20.jpg)
+    ![execution](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/execution.jpg)
 
 - **Output**   
 
   - Abuseipdb.csv content
 
-    ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/results%20.jpg)
+    ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/results.jpg)
 
     
 

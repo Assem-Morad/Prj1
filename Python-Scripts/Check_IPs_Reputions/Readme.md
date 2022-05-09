@@ -10,7 +10,7 @@ this script iterates on serval API keys, allowing you to scan a large number of 
 
   - To get script capabilities and examples, use `-h` 
 
-    ![help](C:\Users\noname\Desktop\images\help.jpg)
+    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/results%20.jpg)
 
 - **Examples**
 
@@ -22,13 +22,13 @@ this script iterates on serval API keys, allowing you to scan a large number of 
     py.exe .\VrT_Multi_ApiKeys.py -l ''<apikey1>'' "<apikey2>" "<apikey3>" -f .\sample.csv -o vrtoutput.csv
     ```
 
-    ![execution](C:\Users\noname\Desktop\images\execution.jpg)
+    ![execution](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/execution%20.jpg)
 
 - **Output**   
 
   - vrtoutput.csv content
 
-    ![results](C:\Users\noname\Desktop\images\results.jpg)
+    ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/results%20.jpg)
 
     
 

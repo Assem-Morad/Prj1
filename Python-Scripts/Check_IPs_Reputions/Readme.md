@@ -15,11 +15,11 @@ this script iterates on serval API keys, allowing you to scan a large number of 
 - **Examples**
 
   - ```
-    py.exe .\VrT_Multi_ApiKeys.py -a .\APIKeys.csv -f .\sample.csv -o vrtoutput.csv
+    py .\CheckIP_Reputation.py -l <api key1> <api key2> <api key3> -f D:/ListOfIPs.csv -o D:/Abuseipdb.csv -m 60
     ```
 
   - ```
-    py.exe .\VrT_Multi_ApiKeys.py -l ''<apikey1>'' "<apikey2>" "<apikey3>" -f .\sample.csv -o vrtoutput.csv
+    py .\CheckIP_Reputation.py -a APIKeys.csv -f D:/ListOfIPs.csv -o D:/Abuseipdb.csv -m 60
     ```
 
     ![execution](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/execution%20.jpg)

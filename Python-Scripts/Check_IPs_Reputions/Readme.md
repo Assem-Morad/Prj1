@@ -26,7 +26,7 @@ this script iterates on serval API keys, allowing you to scan a large number of 
 
 - **Output**   
 
-  - vrtoutput.csv content
+  - Abuseipdb.csv content
 
     ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputions/images/results%20.jpg)
 

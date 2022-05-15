@@ -23,7 +23,7 @@ atomic_tests:
     BitsScript_URL:
       description: URL of BITS Server Script
       type: Url
-      default: https://github.com/CyberCastle-Blueteam/OpenThreatDetectionRules/blob/main/BITS_DataExfilitration/src/Bits_Upload.ps1      
+      default: https://github.com/Assem-Morad/Prj1/blob/main/Sigma%20Rules%20%26%20Atomic%20Tests/BITS_Upload%5BData-Exfilitration%5D/src/Bits_Upload.ps1     
   dependency_executor_name: powershell
   dependencies:
   - description: |

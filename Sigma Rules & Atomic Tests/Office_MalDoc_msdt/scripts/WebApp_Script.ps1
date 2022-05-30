@@ -15,8 +15,8 @@ param(
 
 
 function IIS_Installation {
-  $BitsApp = 'Web-Server'
-  foreach ($App in $BitsApp)
+  $Feature = 'Web-Server'
+  foreach ($App in $Feature)
    {
         if ((Get-WindowsFeature -Name $App|select -ExpandProperty Installed) -ne 'True')
          {
@@ -176,19 +176,20 @@ function Uninstall_WebApp{
 
     {  
          Write-Host "The 'test' Directory exists at $env:TEMP"
-         Write-Host "[+] Removing $BitsDir ...."
+         Write-Host "[+] Removing $WebDir ...."
          $Remove_Dir = Remove-Item -Path $WebDir -Recurse -Force
         
-         if (Test-Path -Path $BitsDir)
+         if (Test-Path -Path "$env:TEMP/test")
 
             {
-                Write-Host "Removed the 'test' Directory"
+               
+		Write-Host "[-] Failed to remove 'test' Directory"
             }
 
          else
 
             {
-                Write-Host "[-] Failed to remove 'test' Directory"
+	    	Write-Host "Removed the 'test' Directory"
             }
 
 

@@ -10,7 +10,7 @@ The more api keys used the less time it takes to send a scan request. for exampl
 
   - To get script capabilities and examples, use `-h` 
 
-    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_FileHash_Repution/images/help.jpg)
+    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_FileHash_Reputation/images/help.jpg)
 
 - **Examples**
 
@@ -28,7 +28,7 @@ The more api keys used the less time it takes to send a scan request. for exampl
 
   - vrtoutput.csv content
 
-    ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_FileHash_Repution/images/results.jpg)
+    ![results](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_FileHash_Reputation/images/results.jpg)
 
     
 

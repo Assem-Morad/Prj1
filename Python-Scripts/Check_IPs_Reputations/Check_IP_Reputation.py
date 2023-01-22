@@ -9,7 +9,7 @@ from datetime import datetime
 example_text = '''example:
 
 py .\CheckIP_Reputation.py -l <api key1> <api key2> <api key3> -p D:/ListOfIPs.csv -o D:/Abuseipdb.csv -m 60
-py .\CheckIP_Reputation.py -a APIKeys.csv -f D:/ListOfIPs.csv -o D:/Abuseipdb.csv -m 60
+py .\CheckIP_Reputation.py -a APIKeys.csv -p D:/ListOfIPs.csv -o D:/Abuseipdb.csv -m 60
  
 '''
 

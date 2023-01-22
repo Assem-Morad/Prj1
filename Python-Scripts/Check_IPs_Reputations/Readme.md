@@ -10,7 +10,7 @@ This script iterates on serval API keys, allowing you to scan a large number of 
 
   - To get script capabilities and examples, use `-h` 
 
-    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputations/images/help.jpg)
+    ![help](https://github.com/Assem-Morad/Prj1/blob/main/Python-Scripts/Check_IPs_Reputations/images/helpsys.jpg)
 
 - **Examples**
 
